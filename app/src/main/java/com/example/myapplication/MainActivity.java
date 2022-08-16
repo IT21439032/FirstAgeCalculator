@@ -12,7 +12,7 @@ import java.util.Calendar;
 
 public class MainActivity extends AppCompatActivity {
 
-    EditText et;
+    EditText et,et2;
     Button btn;
     TextView tv;
 
